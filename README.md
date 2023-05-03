@@ -1,4 +1,4 @@
-# ml-model
+# Vuejs-CNN-Deploy
 
 ## Project setup
 ```
